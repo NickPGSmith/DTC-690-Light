@@ -1,6 +1,6 @@
 # DTC-690-Light
 
-A KiCAD PCB for fitting a light on the Sony DTC-690 DAT recorder
+A KiCAD PCB definition for fitting a light on the Sony DTC-690 DAT recorder
 
 Introduction
 
